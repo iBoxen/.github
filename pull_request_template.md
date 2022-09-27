@@ -1,5 +1,7 @@
 ## Pull request guidelines
 
+#### General
+- [ ] The PR is connected to an issue
 #### Tests
 - [ ] The PR contains added & updated tests
 - [ ] I have usage tested my own code
