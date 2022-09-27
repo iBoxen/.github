@@ -1,4 +1,4 @@
-## Pull request template
+## Pull request guidelines
 
 #### Tests
 - [ ] The PR contains added & updated tests
